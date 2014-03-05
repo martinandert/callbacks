@@ -1,0 +1,32 @@
+{
+  "name": "callbacks",
+  "version": "0.0.0",
+  "description": "An experimental callback system for Node.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martinandert/callbacks.git"
+  },
+  "keywords": [
+    "callback",
+    "system"
+  ],
+  "author": {
+    "name": "Martin Andert",
+    "email": "mandert@gmail.com"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "make test"
+  },
+  "bugs": {
+    "url": "https://github.com/martinandert/callbacks/issues"
+  },
+  "homepage": "https://github.com/martinandert/callbacks",
+  "dependencies": {},
+  "peerDependencies": {},
+  "devDependencies": {
+    "jshint": "~2.4.4",
+    "mocha": "~1.17.1"
+  }
+}
