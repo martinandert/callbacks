@@ -23,7 +23,9 @@
     "url": "https://github.com/martinandert/callbacks/issues"
   },
   "homepage": "https://github.com/martinandert/callbacks",
-  "dependencies": {},
+  "dependencies": {
+    "synchronized": "^0.1.7"
+  },
   "peerDependencies": {},
   "devDependencies": {
     "jshint": "~2.4.4",
